@@ -1,25 +1,5 @@
 27-07-11
 - Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
-27-07-11
-- Testing EGit synchronize with incoming changes
 
 27-02-11
 
